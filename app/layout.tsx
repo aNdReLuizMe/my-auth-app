@@ -22,7 +22,7 @@ export default function RootLayout({
               </button>
               <img
                 className="w-10 h-10 rounded-full"
-                src="/DeveloperDeck101.png"
+                src="/spaceArgonaut.jpg"
                 alt="Rounded avatar"
               ></img>
             </ul>
